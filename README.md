@@ -31,4 +31,3 @@
   
 </div>
 
-![Snake animation](https://github.com/arthuramos/arthuramos/blob/output/github-contribution-grid-snake.svg)
